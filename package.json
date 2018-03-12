@@ -27,10 +27,10 @@
   "repository": "git@github.com:scull7/bs-validation.git",
   "author": "Nathan Sculli <scull7@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.2",
+    "bs-platform": "^2.2.2",
     "coveralls": "^3.0.0",
     "nyc": "^11.4.1"
   },
